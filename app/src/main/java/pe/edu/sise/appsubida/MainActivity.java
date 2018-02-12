@@ -14,5 +14,12 @@ public class MainActivity extends AppCompatActivity {
 
         /*Subida222*/
         /*subida2333*/
+
+
+
+    }
+
+    public void Prueba(){
+        //Este es un metodo
     }
 }
